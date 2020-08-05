@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="pokemon_detail_image_cd">Pokemon Image</string>
+    <string name="pokemon_stats_title">Pokemon Stats</string>
+    <string name="pokemon_types_title">Pokemon Types</string>
+    <string name="pokemon_detail_name">Pokemon Name</string>
+    <string name="pokemon_stat_name">Stat Name</string>
+    <string name="pokemon_stat_base">Base Stat</string>
+    <string name="pokemon_stat_effort">Effort</string>
+</resources>
